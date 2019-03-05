@@ -1,0 +1,3 @@
+# calibration_camera_lidar
+从autoware分离出来的相机雷达联合标定ros包
+metapackage
