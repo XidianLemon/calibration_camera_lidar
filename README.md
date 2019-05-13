@@ -11,3 +11,4 @@ metapackage
 
 当前终端执行rosrun calibration_camera_lidar calibration_toolkit
 
+要装nlopt，上github上搜索nlopt，按照下面说的步骤装上就能用了。
